@@ -1,1 +1,1 @@
-print("Hello Kodyvim :D")
+print('Hello world :D')
